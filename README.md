@@ -4,7 +4,7 @@ A collection of clean, functional implementations of common data structures. Sta
 
 Each file is a collection of implementations of a family of data structures. So, with Haskell for example, `heaps.hs`, `queues.hs`, etc.
 
-Currently I am not planning on F# variants as F# is sufficiently similar to Ocaml that translation should be straightforward. I will consider doing them if there is sufficient interest however.
+Update: I will be doing F# versions as well due to demand.
 
 ## Bibliography
 
